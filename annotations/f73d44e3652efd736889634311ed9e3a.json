@@ -1,0 +1,204 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "<a href=\"https://data.collectie.gent/entity/dmg:3064\" target=\"_blank\" rel=\"noopener\">https://data.collectie.gent/entity/dmg:3064",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><a href=\"https://data.collectie.gent/entity/dmg:3064\" target=\"_blank\" rel=\"noopener\">https://data.collectie.gent/entity/dmg:3064</a></p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/97025474",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-06-01T07:57:08",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1685606228416",
+    "dcterms:modified" : "2023-06-01T07:57:08",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://api.collectie.gent/iiif/presentation/v2/manifest/archiefgent:MA_SCMS_FO_03937"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=2173,565,316,556"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2189.43137,1091.4086l-16.84706,-263.93725l143.2,-11.23137l26.67451,-251.30196h146.00784l-5.61569,506.81569l-131.96863,49.13725z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;annotation&quot;:null}\" id=\"rough_path_4747036f-ad25-493f-a710-84a9d1c4047a\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "https://api.collectie.gent/iiif/presentation/v2/canvas/ed66075b89291f3e384410f90a4c262a-transcode-MA_SCMS_FO_03937.jpg.json"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "<a href=\"https://data.collectie.gent/entity/dmg:0034\" target=\"_blank\" rel=\"noopener\">https://data.collectie.gent/entity/dmg:0034",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><a href=\"https://data.collectie.gent/entity/dmg:0034\" target=\"_blank\" rel=\"noopener\">https://data.collectie.gent/entity/dmg:0034</a></p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/97025474",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-06-01T07:58:34",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1685606314180",
+    "dcterms:modified" : "2023-06-01T07:58:34",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://api.collectie.gent/iiif/presentation/v2/manifest/archiefgent:MA_SCMS_FO_03937"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1577,834,197,236"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1580.12941,834.49104l-2.80784,192.33725l162.8549,43.52157l33.69412,-220.41569z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;annotation&quot;:null}\" id=\"rough_path_2070d456-9270-4c38-8be8-c178b7b1da2f\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "https://api.collectie.gent/iiif/presentation/v2/canvas/ed66075b89291f3e384410f90a4c262a-transcode-MA_SCMS_FO_03937.jpg.json"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "<a title=\"Dressoir met maaswerk en briefpanelen\" href=\"https://data.collectie.gent/entity/dmg:0031\" target=\"_blank\" rel=\"noopener\">https://data.collectie.gent/entity/dmg:0031\n<img src=\"https://api.collectie.gent/iiif/imageiiif/3/3f53c22e52f73748bb0554bd04f3101e-transcode-0031.jpg/full/%5E1000,/0/default.jpg\" alt=\"Dressoir met maaswerk en briefpanelen\" width=\"1000\" height=\"1500\" />",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><a title=\"Dressoir met maaswerk en briefpanelen\" href=\"https://data.collectie.gent/entity/dmg:0031\" target=\"_blank\" rel=\"noopener\">https://data.collectie.gent/entity/dmg:0031</a></p>\n<p><img src=\"https://api.collectie.gent/iiif/imageiiif/3/3f53c22e52f73748bb0554bd04f3101e-transcode-0031.jpg/full/%5E1000,/0/default.jpg\" alt=\"Dressoir met maaswerk en briefpanelen\" width=\"1000\" height=\"1500\" /></p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/97025474",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-06-01T07:54:47",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1685606087294",
+    "dcterms:modified" : "2023-06-01T07:54:47",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://api.collectie.gent/iiif/presentation/v2/manifest/archiefgent:MA_SCMS_FO_03937"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=657,665,345,502"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M656.76098,665.1556h172.27843v0h172.27843v250.89804v250.89804h-172.27843h-172.27843v-250.89804z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_33c22678-af7e-4c7d-8a67-d2ea08d393dd\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "https://api.collectie.gent/iiif/presentation/v2/canvas/ed66075b89291f3e384410f90a4c262a-transcode-MA_SCMS_FO_03937.jpg.json"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "<a title=\"Vergulde en gepolychromeerde sgabello\" href=\"https://data.collectie.gent/entity/dmg:0030\" target=\"_blank\" rel=\"noopener\">https://data.collectie.gent/entity/dmg:0030",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><a title=\"Vergulde en gepolychromeerde sgabello\" href=\"https://data.collectie.gent/entity/dmg:0030\" target=\"_blank\" rel=\"noopener\">https://data.collectie.gent/entity/dmg:0030</a></p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/97025474",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-06-01T07:55:49",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1685606149661",
+    "dcterms:modified" : "2023-06-01T07:55:49",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://api.collectie.gent/iiif/presentation/v2/manifest/archiefgent:MA_SCMS_FO_03937"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1842,571,275,480"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1844.51319,1033.01766l12.63529,-192.33725l105.29412,-21.05882l-21.05882,-197.95294l78.61961,-39.3098l56.15686,-11.23137l40.71373,68.79216l-57.56078,178.29804l22.46275,71.6l-117.92941,11.23137l-16.84706,150.21961l-105.29412,-16.84706z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;annotation&quot;:null}\" id=\"rough_path_22d30992-e0a9-4dfb-9396-b51c5c75032e\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "https://api.collectie.gent/iiif/presentation/v2/canvas/ed66075b89291f3e384410f90a4c262a-transcode-MA_SCMS_FO_03937.jpg.json"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "<a href=\"https://data.collectie.gent/entity/dmg:3436\" target=\"_blank\" rel=\"noopener\">https://data.collectie.gent/entity/dmg:3436",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><a href=\"https://data.collectie.gent/entity/dmg:3436\" target=\"_blank\" rel=\"noopener\">https://data.collectie.gent/entity/dmg:3436</a></p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/97025474",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-06-01T07:56:41",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1685606201298",
+    "dcterms:modified" : "2023-06-01T07:56:41",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://api.collectie.gent/iiif/presentation/v2/manifest/archiefgent:MA_SCMS_FO_03937"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=2007,39,708,482"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2006.92157,214.8l11.23137,306.0549l696.3451,-77.21569l-5.61569,-404.32941z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;annotation&quot;:null}\" id=\"rough_path_8b09418b-6b7d-4917-a98f-f610d92454bb\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "https://api.collectie.gent/iiif/presentation/v2/canvas/ed66075b89291f3e384410f90a4c262a-transcode-MA_SCMS_FO_03937.jpg.json"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "<a href=\"https://data.collectie.gent/entity/dmg:0891\" target=\"_blank\" rel=\"noopener\">https://data.collectie.gent/entity/dmg:0891",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><a href=\"https://data.collectie.gent/entity/dmg:0891\" target=\"_blank\" rel=\"noopener\">https://data.collectie.gent/entity/dmg:0891</a></p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/97025474",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-06-01T07:57:55",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1685606275889",
+    "dcterms:modified" : "2023-06-01T07:57:55",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://api.collectie.gent/iiif/presentation/v2/manifest/archiefgent:MA_SCMS_FO_03937"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1966,887,201,205"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1976.03529,1056.59136l176.89412,35.09804l14.03922,-168.47059l-81.42745,-36.50196l-119.33333,21.05882z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;annotation&quot;:null}\" id=\"rough_path_e1a7abaa-11b2-4ff4-b75d-03c472039832\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "https://api.collectie.gent/iiif/presentation/v2/canvas/ed66075b89291f3e384410f90a4c262a-transcode-MA_SCMS_FO_03937.jpg.json"
+    } ]
+  } ],
+  "@id" : "https://thijstem.github.io/DMG1923/annotations/f73d44e3652efd736889634311ed9e3a.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
